@@ -9,6 +9,15 @@ Basically i have created a new app, that will check internet continue and will w
 -If user is online, it will store the articles in local database (room database).
 - If user is offline, it will fetch the data from room database
 
+###### Android / Tools and Machenism
+
+- Used MVVM Pattern
+- ViewModel
+- Live Data
+- Room Database
+- Coroutines
+- Internet Permission
+
 
 ## Requirements
 - Android Studio
@@ -23,7 +32,7 @@ Follow these steps to install and run the app on your device:
 3. configure the project
 4. now Run the App
 
-##(AlterNative)
+## (AlterNative)
 
 If git repo clone does not work properly.
 1. unzip the attached zip file and import project in android studio
