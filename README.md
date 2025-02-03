@@ -27,3 +27,4 @@ Follow these steps to install and run the app on your device:
 
 If git repo clone does not work properly.
 1. unzip the attached zip file and import project in android studio
+2. Zip file name (Seamless.zip)
