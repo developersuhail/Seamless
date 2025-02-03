@@ -11,6 +11,7 @@ Basically i have created a new app, that will check internet continue and will w
 
 ###### Android / Tools and Machenism
 
+- Kotlin
 - Used MVVM Pattern
 - ViewModel
 - Live Data
